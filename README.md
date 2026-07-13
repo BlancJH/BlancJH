@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlancJH&langs_count=8&hide=jupyter%20notebook,CMake,Ruby,Swift,C,Kotlin&count_private=true)
+<img src="https://raw.githubusercontent.com/BlancJH/BlancJH/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
 
 <!--
