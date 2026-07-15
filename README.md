@@ -36,12 +36,12 @@
   <br />
 
   <!-- github-profile-summary-cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlancJH&theme=default" alt="profile summary" />
+  <img src="./profile-summary-cards-output/default/0-profile-details.svg" alt="profile summary" />
 
   <br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlancJH&theme=default" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlancJH&theme=default" alt="stats summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BlancJH&theme=default&utcOffset=8" alt="productive time" />
+  <img src="./profile-summary-cards-output/default/1-repos-per-language.svg" alt="repos per language" />
+  <img src="./profile-summary-cards-output/default/3-stats.svg" alt="stats summary" />
+  <img src="./profile-summary-cards-output/default/4-productive-time.svg" alt="productive time" />
 
 </div>
