@@ -36,12 +36,12 @@
   <br />
 
   <!-- github-profile-summary-cards -->
-  <img src="./profile-summary-cards-output/default/0-profile-details.svg" alt="profile summary" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="profile summary" />
 
   <br />
 
-  <img src="./profile-summary-cards-output/default/1-repos-per-language.svg" alt="repos per language" />
-  <img src="./profile-summary-cards-output/default/3-stats.svg" alt="stats summary" />
-  <img src="./profile-summary-cards-output/default/4-productive-time.svg" alt="productive time" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="repos per language" />
+  <img src="./profile-summary-card-output/default/3-stats.svg" alt="stats summary" />
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" alt="productive time" />
 
 </div>
