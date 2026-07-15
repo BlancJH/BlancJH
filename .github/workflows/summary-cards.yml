@@ -1,0 +1,24 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    # Runs at midnight UTC
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24f211/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # You can change 'default' to 'monokai', 'github', 'dracula', etc.
+          THEME: default
